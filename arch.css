@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#mainNavbar{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 100;
+    position: fixed;
+}
+.navbar{
+    background-color:blue;
+    color: black;
+}
+#mainNavbvar ul{
+    color: #000000;
+    padding: 8px 16px;
+    width: auto;
+    display: block;
+
+}
+img{
+    vertical-align: middle;
+    border-style: none;
+}
+.image{
+    padding-top: 0;
+}
+ h4{
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+} 
+.about{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.button{
+    margin-left: 20px;
+    background-color:black;
+    color: white;
+    margin-bottom: 16px;
+    margin-top: 16px ;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.w3-black{
+    color: white;
+    background-color: black;
+}
+.w3-padding{
+    padding:8px 16px;
+    margin-left: 10px;
+    
+}
+.w3-display-topleft{
+    position: absolute;
+    left:0;
+    top:0;
+}
+.w3-margin-top{
+    margin-top:16px auto 16px auto;
+    color: white;
+}
+.w3-center{
+    text-align: center;
+}
+.w3-display-middle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
